@@ -3,13 +3,13 @@
 	  {
 		"id": "1",
 		"name": "Carlos Celis",
-		"review": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Atque velit",
+		"text": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Atque velit",
 		"rating": 5
 	  },
 	  {
 		"id": "2",
 		"name": "Diego Cueva",
-		"review": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Atque velit",
+		"text": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Atque velit",
 		"rating": 5
 	  }
 	]
